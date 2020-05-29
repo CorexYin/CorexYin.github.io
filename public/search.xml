@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>newpapername</title>
-    <url>/%E5%88%86%E7%BB%841/%E5%88%86%E7%BB%842/%E5%88%86%E7%BB%843/newpapername/</url>
-    <content><![CDATA[<p>测试第一发，看看效果。<br>大家好。<br>我要试一试。</p>
+    <title>My second blog for test password</title>
+    <url>/%E5%88%86%E7%BB%841/%E5%88%86%E7%BB%844/My-second-blog-for/</url>
+    <content><![CDATA[<h1 id="This-is-the-first-title"><a href="#This-is-the-first-title" class="headerlink" title="This is the first title."></a>This is the first title.</h1><p>I try to complete my test.  </p>
+<h2 id="This-is-the-second-title"><a href="#This-is-the-second-title" class="headerlink" title="This is the second title."></a>This is the second title.</h2><p>I try to complete my test too.<br><strong>End</strong></p>
 ]]></content>
       <categories>
         <category>分组1</category>
-        <category>分组2</category>
-        <category>分组3</category>
+        <category>分组4</category>
       </categories>
       <tags>
         <tag>test</tag>
-        <tag>study</tag>
         <tag>myself</tag>
+        <tag>study</tag>
       </tags>
   </entry>
   <entry>
@@ -35,19 +35,19 @@
 ]]></content>
   </entry>
   <entry>
-    <title>My second blog for test password</title>
-    <url>/%E5%88%86%E7%BB%841/%E5%88%86%E7%BB%844/My-second-blog-for/</url>
-    <content><![CDATA[<h1 id="This-is-the-first-title"><a href="#This-is-the-first-title" class="headerlink" title="This is the first title."></a>This is the first title.</h1><p>I try to complete my test.  </p>
-<h2 id="This-is-the-second-title"><a href="#This-is-the-second-title" class="headerlink" title="This is the second title."></a>This is the second title.</h2><p>I try to complete my test too.<br><strong>End</strong></p>
+    <title>newpapername</title>
+    <url>/%E5%88%86%E7%BB%841/%E5%88%86%E7%BB%842/%E5%88%86%E7%BB%843/newpapername/</url>
+    <content><![CDATA[<p>测试第一发，看看效果。<br>大家好。<br>我要试一试。</p>
 ]]></content>
       <categories>
         <category>分组1</category>
-        <category>分组4</category>
+        <category>分组2</category>
+        <category>分组3</category>
       </categories>
       <tags>
         <tag>test</tag>
-        <tag>study</tag>
         <tag>myself</tag>
+        <tag>study</tag>
       </tags>
   </entry>
 </search>
