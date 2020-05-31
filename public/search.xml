@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Top test</title>
+    <url>/Hexo%E5%9F%BA%E7%A1%80/Top-test/</url>
+    <content><![CDATA[<p>这里是一个置顶功能的测试</p>
+]]></content>
+      <categories>
+        <category>Hexo基础</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Readmore</title>
+    <url>/%E6%B5%8B%E8%AF%95/Hexo%E5%9F%BA%E7%A1%80/readmore/</url>
+    <content><![CDATA[<p>这里要测试一下readmore</p>
+<a id="more"></a>
+<p>继续继续继续</p>
+]]></content>
+      <categories>
+        <category>测试</category>
+        <category>Hexo基础</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+        <tag>myself</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>My second blog for test password</title>
     <url>/%E6%B5%8B%E8%AF%95/Hexo%E5%9F%BA%E7%A1%80/My-second-blog-for/</url>
     <content><![CDATA[<h1 id="This-is-the-first-title"><a href="#This-is-the-first-title" class="headerlink" title="This is the first title."></a>This is the first title.</h1><p>I try to complete my test.  </p>
@@ -9,6 +37,20 @@
       <categories>
         <category>测试</category>
         <category>Hexo基础</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+        <tag>myself</tag>
+        <tag>study</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>newpapername</title>
+    <url>/%E6%B5%8B%E8%AF%95/newpapername/</url>
+    <content><![CDATA[<p>测试第一发，看看效果。<br>大家好。<br>我要试一试。</p>
+]]></content>
+      <categories>
+        <category>测试</category>
       </categories>
       <tags>
         <tag>test</tag>
@@ -33,35 +75,5 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>newpapername</title>
-    <url>/%E6%B5%8B%E8%AF%95/newpapername/</url>
-    <content><![CDATA[<p>测试第一发，看看效果。<br>大家好。<br>我要试一试。</p>
-]]></content>
-      <categories>
-        <category>测试</category>
-      </categories>
-      <tags>
-        <tag>test</tag>
-        <tag>myself</tag>
-        <tag>study</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Readmore</title>
-    <url>/%E6%B5%8B%E8%AF%95/Hexo%E5%9F%BA%E7%A1%80/readmore/</url>
-    <content><![CDATA[<p>这里要测试一下readmore</p>
-<a id="more"></a>
-<p>继续继续继续</p>
-]]></content>
-      <categories>
-        <category>测试</category>
-        <category>Hexo基础</category>
-      </categories>
-      <tags>
-        <tag>test</tag>
-        <tag>myself</tag>
-      </tags>
   </entry>
 </search>
